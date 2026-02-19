@@ -1,6 +1,7 @@
-
 *
 
 !.gitignore
 !converter.py
 !README.md
+!GPS_Telemetry_Converter.spec
+!version_info.txt
